@@ -1,0 +1,47 @@
+syntax = "proto3";
+
+option csharp_namespace = "HivCare.GrpcService.PhatNH.Protos";
+
+service DoctorAvailabilityPhatNhGRPC
+{
+	rpc GetAllAsync(EmptyRequest) returns (DoctorAvailabilityPhatNhList);
+	rpc GetByIdAsync(DoctorAvailabilityPhatNhIdRequest) returns (DoctorAvailabilityPhatNh);
+	rpc CreateAsync(DoctorAvailabilityPhatNh) returns (MutationResult);
+	rpc UpdateAsync(DoctorAvailabilityPhatNh) returns (MutationResult);
+	rpc DeleteAsync(DoctorAvailabilityPhatNhIdRequest) returns (MutationResult);
+}
+
+message EmptyRequest {}
+
+message DoctorAvailabilityPhatNhList{
+	repeated DoctorAvailabilityPhatNh Items = 1;
+
+}
+
+message DoctorAvailabilityPhatNhIdRequest{
+	//int => int32, decimal = double, long = int64, string = string, bool = bool, DateTime = string (ISO 8601 format)
+	int32 DoctorAvailabilityPhatNhiD = 1;
+}
+
+message MutationResult {	
+	int32 result = 1;
+}
+message DoctorAvailabilityPhatNh{
+		//int => int32, decimal = double, long = int64, string = string, bool = bool, DateTime = string (ISO 8601 format)
+	int32 doctorAvailabilityPhatNhiD = 1;
+  int32 doctorPhatNhiD = 2;
+  string dayOfWeek = 3;
+  string startTime = 4;           // originally DateTime?
+  string endTime = 5;             // originally DateTime?
+  string specificDate = 6;        // originally DateTime?
+  int32 maxAppointments = 7;
+  string breakStartTime = 8;      // originally DateTime?
+  string breakEndTime = 9;        // originally DateTime?
+  string status = 10;
+  string notes = 11;
+  bool isEmergencyAvailable = 12;
+  string createdAt = 13;          // originally DateTime?
+  string updatedAt = 14;          // originally DateTime?
+
+  //DoctorPhatNh doctorPhatNh = 15; // Foreign key relationship (optional)
+}

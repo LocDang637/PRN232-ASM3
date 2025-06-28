@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36203.30
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HivCare.Repository.PhatNH", "C:\Users\locda\Desktop\SU25_PRN232_SE1725_ASM2_SE170421_PhatNH\HivCare.Repository.PhatNH\HivCare.Repository.PhatNH.csproj", "{2B1FF4FD-439A-8010-370D-9C6B3F309017}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HivCare.Services.PhatNH", "C:\Users\locda\Desktop\SU25_PRN232_SE1725_ASM2_SE170421_PhatNH\HivCare.Services.PhatNH\HivCare.Services.PhatNH.csproj", "{A2B64B2F-DF66-1D5D-9682-4B4CBB05B5CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HivCare.GrpcService.PhatNH", "HivCare.GrpcService.PhatNH\HivCare.GrpcService.PhatNH.csproj", "{6D18D135-3CD2-424C-8860-77A830C02440}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HivCare.GrpcClients.ConsoleApp.LocDPX", "HivCare.GrpcClients.ConsoleApp.LocDPX\HivCare.GrpcClients.ConsoleApp.LocDPX.csproj", "{78731E16-8738-4234-BE40-C08C53F0218A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B1FF4FD-439A-8010-370D-9C6B3F309017}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B1FF4FD-439A-8010-370D-9C6B3F309017}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B1FF4FD-439A-8010-370D-9C6B3F309017}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B1FF4FD-439A-8010-370D-9C6B3F309017}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2B64B2F-DF66-1D5D-9682-4B4CBB05B5CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2B64B2F-DF66-1D5D-9682-4B4CBB05B5CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2B64B2F-DF66-1D5D-9682-4B4CBB05B5CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2B64B2F-DF66-1D5D-9682-4B4CBB05B5CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D18D135-3CD2-424C-8860-77A830C02440}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D18D135-3CD2-424C-8860-77A830C02440}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D18D135-3CD2-424C-8860-77A830C02440}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D18D135-3CD2-424C-8860-77A830C02440}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78731E16-8738-4234-BE40-C08C53F0218A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78731E16-8738-4234-BE40-C08C53F0218A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78731E16-8738-4234-BE40-C08C53F0218A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78731E16-8738-4234-BE40-C08C53F0218A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {68969D9D-8DB1-400E-A771-0FFE96F55524}
+	EndGlobalSection
+EndGlobal
