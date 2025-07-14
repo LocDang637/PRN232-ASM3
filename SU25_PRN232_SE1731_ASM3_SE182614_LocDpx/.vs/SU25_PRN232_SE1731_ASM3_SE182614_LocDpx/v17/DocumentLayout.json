@@ -3,7 +3,8 @@
   "WorkspaceRootPath": "D:\\SU25\\PRN232\\ASM\\ASM3\\SU25_PRN232_SE1731_ASM3_SE182614_LocDpx\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2B64B2F-DF66-1D5D-9682-4B4CBB05B5CA}|C:\\Users\\locda\\Desktop\\SU25_PRN232_SE1725_ASM2_SE170421_PhatNH\\HivCare.Services.PhatNH\\HivCare.Services.PhatNH.csproj|c:\\users\\locda\\desktop\\su25_prn232_se1725_asm2_se170421_phatnh\\hivcare.services.phatnh\\doctoravailabilityphatnhservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{78731E16-8738-4234-BE40-C08C53F0218A}|HivCare.GrpcClients.ConsoleApp.LocDPX\\HivCare.GrpcClients.ConsoleApp.LocDPX.csproj|d:\\su25\\prn232\\asm\\asm3\\su25_prn232_se1731_asm3_se182614_locdpx\\hivcare.grpcclients.consoleapp.locdpx\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78731E16-8738-4234-BE40-C08C53F0218A}|HivCare.GrpcClients.ConsoleApp.LocDPX\\HivCare.GrpcClients.ConsoleApp.LocDPX.csproj|solutionrelative:hivcare.grpcclients.consoleapp.locdpx\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6D18D135-3CD2-424C-8860-77A830C02440}|HivCare.GrpcService.PhatNH\\HivCare.GrpcService.PhatNH.csproj|d:\\su25\\prn232\\asm\\asm3\\su25_prn232_se1731_asm3_se182614_locdpx\\hivcare.grpcservice.phatnh\\services\\doctoravailabilityphatnhgrpcservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -14,19 +15,18 @@
       "RelativeMoniker": "D:0:0:{6D18D135-3CD2-424C-8860-77A830C02440}|HivCare.GrpcService.PhatNH\\HivCare.GrpcService.PhatNH.csproj|solutionrelative:hivcare.grpcservice.phatnh\\protos\\doctoravailabilityphatnh.proto||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{78731E16-8738-4234-BE40-C08C53F0218A}|HivCare.GrpcClients.ConsoleApp.LocDPX\\HivCare.GrpcClients.ConsoleApp.LocDPX.csproj|d:\\su25\\prn232\\asm\\asm3\\su25_prn232_se1731_asm3_se182614_locdpx\\hivcare.grpcclients.consoleapp.locdpx\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78731E16-8738-4234-BE40-C08C53F0218A}|HivCare.GrpcClients.ConsoleApp.LocDPX\\HivCare.GrpcClients.ConsoleApp.LocDPX.csproj|solutionrelative:hivcare.grpcclients.consoleapp.locdpx\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2B1FF4FD-439A-8010-370D-9C6B3F309017}|C:\\Users\\locda\\Desktop\\SU25_PRN232_SE1725_ASM2_SE170421_PhatNH\\HivCare.Repository.PhatNH\\HivCare.Repository.PhatNH.csproj|c:\\users\\locda\\desktop\\su25_prn232_se1725_asm2_se170421_phatnh\\hivcare.repository.phatnh\\dbcontext\\hivcarecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6D18D135-3CD2-424C-8860-77A830C02440}|HivCare.GrpcService.PhatNH\\HivCare.GrpcService.PhatNH.csproj|d:\\su25\\prn232\\asm\\asm3\\su25_prn232_se1731_asm3_se182614_locdpx\\hivcare.grpcservice.phatnh\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D18D135-3CD2-424C-8860-77A830C02440}|HivCare.GrpcService.PhatNH\\HivCare.GrpcService.PhatNH.csproj|solutionrelative:hivcare.grpcservice.phatnh\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6D18D135-3CD2-424C-8860-77A830C02440}|HivCare.GrpcService.PhatNH\\HivCare.GrpcService.PhatNH.csproj|d:\\su25\\prn232\\asm\\asm3\\su25_prn232_se1731_asm3_se182614_locdpx\\hivcare.grpcservice.phatnh\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{6D18D135-3CD2-424C-8860-77A830C02440}|HivCare.GrpcService.PhatNH\\HivCare.GrpcService.PhatNH.csproj|solutionrelative:hivcare.grpcservice.phatnh\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6D18D135-3CD2-424C-8860-77A830C02440}|HivCare.GrpcService.PhatNH\\HivCare.GrpcService.PhatNH.csproj|d:\\su25\\prn232\\asm\\asm3\\su25_prn232_se1731_asm3_se182614_locdpx\\hivcare.grpcservice.phatnh\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D18D135-3CD2-424C-8860-77A830C02440}|HivCare.GrpcService.PhatNH\\HivCare.GrpcService.PhatNH.csproj|solutionrelative:hivcare.grpcservice.phatnh\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2B1FF4FD-439A-8010-370D-9C6B3F309017}|C:\\Users\\locda\\Desktop\\SU25_PRN232_SE1725_ASM2_SE170421_PhatNH\\HivCare.Repository.PhatNH\\HivCare.Repository.PhatNH.csproj|c:\\users\\locda\\desktop\\su25_prn232_se1725_asm2_se170421_phatnh\\hivcare.repository.phatnh\\dbcontext\\hivcarecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2B64B2F-DF66-1D5D-9682-4B4CBB05B5CA}|C:\\Users\\locda\\Desktop\\SU25_PRN232_SE1725_ASM2_SE170421_PhatNH\\HivCare.Services.PhatNH\\HivCare.Services.PhatNH.csproj|c:\\users\\locda\\desktop\\su25_prn232_se1725_asm2_se170421_phatnh\\hivcare.services.phatnh\\doctoravailabilityphatnhservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6D18D135-3CD2-424C-8860-77A830C02440}|HivCare.GrpcService.PhatNH\\HivCare.GrpcService.PhatNH.csproj|d:\\su25\\prn232\\asm\\asm3\\su25_prn232_se1731_asm3_se182614_locdpx\\hivcare.grpcservice.phatnh\\protos\\greet.proto||{3B902123-F8A7-4915-9F01-361F908088D0}",
@@ -40,7 +40,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 532,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Bookmark",
@@ -72,61 +72,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "DoctorAvailabilityPhatNhService.cs",
-              "DocumentMoniker": "C:\\Users\\locda\\Desktop\\SU25_PRN232_SE1725_ASM2_SE170421_PhatNH\\HivCare.Services.PhatNH\\DoctorAvailabilityPhatNhService.cs",
-              "ToolTip": "C:\\Users\\locda\\Desktop\\SU25_PRN232_SE1725_ASM2_SE170421_PhatNH\\HivCare.Services.PhatNH\\DoctorAvailabilityPhatNhService.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABkAAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-28T08:58:40.568Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\SU25\\PRN232\\ASM\\ASM3\\SU25_PRN232_SE1731_ASM3_SE182614_LocDpx\\HivCare.GrpcClients.ConsoleApp.LocDPX\\Program.cs",
-              "RelativeDocumentMoniker": "HivCare.GrpcClients.ConsoleApp.LocDPX\\Program.cs",
-              "ToolTip": "D:\\SU25\\PRN232\\ASM\\ASM3\\SU25_PRN232_SE1731_ASM3_SE182614_LocDpx\\HivCare.GrpcClients.ConsoleApp.LocDPX\\Program.cs",
-              "RelativeToolTip": "HivCare.GrpcClients.ConsoleApp.LocDPX\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-28T08:44:50.889Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "HivCareContext.cs",
-              "DocumentMoniker": "C:\\Users\\locda\\Desktop\\SU25_PRN232_SE1725_ASM2_SE170421_PhatNH\\HivCare.Repository.PhatNH\\DBContext\\HivCareContext.cs",
-              "ToolTip": "C:\\Users\\locda\\Desktop\\SU25_PRN232_SE1725_ASM2_SE170421_PhatNH\\HivCare.Repository.PhatNH\\DBContext\\HivCareContext.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAIwB4AAABJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-28T08:35:43.059Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\SU25\\PRN232\\ASM\\ASM3\\SU25_PRN232_SE1731_ASM3_SE182614_LocDpx\\HivCare.GrpcService.PhatNH\\appsettings.json",
               "RelativeDocumentMoniker": "HivCare.GrpcService.PhatNH\\appsettings.json",
               "ToolTip": "D:\\SU25\\PRN232\\ASM\\ASM3\\SU25_PRN232_SE1731_ASM3_SE182614_LocDpx\\HivCare.GrpcService.PhatNH\\appsettings.json",
               "RelativeToolTip": "HivCare.GrpcService.PhatNH\\appsettings.json",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-06-28T05:32:09.022Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\SU25\\PRN232\\ASM\\ASM3\\SU25_PRN232_SE1731_ASM3_SE182614_LocDpx\\HivCare.GrpcService.PhatNH\\Program.cs",
               "RelativeDocumentMoniker": "HivCare.GrpcService.PhatNH\\Program.cs",
               "ToolTip": "D:\\SU25\\PRN232\\ASM\\ASM3\\SU25_PRN232_SE1731_ASM3_SE182614_LocDpx\\HivCare.GrpcService.PhatNH\\Program.cs",
               "RelativeToolTip": "HivCare.GrpcService.PhatNH\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-25T09:27:17.437Z",
               "EditorCaption": ""
@@ -139,7 +104,7 @@
               "RelativeDocumentMoniker": "HivCare.GrpcService.PhatNH\\Services\\DoctorAvailabilityPhatNhGRPCService.cs",
               "ToolTip": "D:\\SU25\\PRN232\\ASM\\ASM3\\SU25_PRN232_SE1731_ASM3_SE182614_LocDpx\\HivCare.GrpcService.PhatNH\\Services\\DoctorAvailabilityPhatNhGRPCService.cs",
               "RelativeToolTip": "HivCare.GrpcService.PhatNH\\Services\\DoctorAvailabilityPhatNhGRPCService.cs",
-              "ViewState": "AgIAAEsAAAAAAAAAAAAwwF0AAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAACMAAAAAAAAAAAAowB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-25T09:24:31.173Z",
               "EditorCaption": ""
@@ -152,9 +117,43 @@
               "RelativeDocumentMoniker": "HivCare.GrpcService.PhatNH\\Protos\\DoctorAvailabilityPhatNH.proto",
               "ToolTip": "D:\\SU25\\PRN232\\ASM\\ASM3\\SU25_PRN232_SE1731_ASM3_SE182614_LocDpx\\HivCare.GrpcService.PhatNH\\Protos\\DoctorAvailabilityPhatNH.proto",
               "RelativeToolTip": "HivCare.GrpcService.PhatNH\\Protos\\DoctorAvailabilityPhatNH.proto",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAwBYAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACsAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003853|",
               "WhenOpened": "2025-06-25T09:05:46.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SU25\\PRN232\\ASM\\ASM3\\SU25_PRN232_SE1731_ASM3_SE182614_LocDpx\\HivCare.GrpcClients.ConsoleApp.LocDPX\\Program.cs",
+              "RelativeDocumentMoniker": "HivCare.GrpcClients.ConsoleApp.LocDPX\\Program.cs",
+              "ToolTip": "D:\\SU25\\PRN232\\ASM\\ASM3\\SU25_PRN232_SE1731_ASM3_SE182614_LocDpx\\HivCare.GrpcClients.ConsoleApp.LocDPX\\Program.cs",
+              "RelativeToolTip": "HivCare.GrpcClients.ConsoleApp.LocDPX\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T08:44:50.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DoctorAvailabilityPhatNhService.cs",
+              "DocumentMoniker": "C:\\Users\\locda\\Desktop\\SU25_PRN232_SE1725_ASM2_SE170421_PhatNH\\HivCare.Services.PhatNH\\DoctorAvailabilityPhatNhService.cs",
+              "ToolTip": "C:\\Users\\locda\\Desktop\\SU25_PRN232_SE1725_ASM2_SE170421_PhatNH\\HivCare.Services.PhatNH\\DoctorAvailabilityPhatNhService.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAQwB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T08:58:40.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HivCareContext.cs",
+              "DocumentMoniker": "C:\\Users\\locda\\Desktop\\SU25_PRN232_SE1725_ASM2_SE170421_PhatNH\\HivCare.Repository.PhatNH\\DBContext\\HivCareContext.cs",
+              "ToolTip": "C:\\Users\\locda\\Desktop\\SU25_PRN232_SE1725_ASM2_SE170421_PhatNH\\HivCare.Repository.PhatNH\\DBContext\\HivCareContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAowB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T08:35:43.059Z",
               "EditorCaption": ""
             },
             {

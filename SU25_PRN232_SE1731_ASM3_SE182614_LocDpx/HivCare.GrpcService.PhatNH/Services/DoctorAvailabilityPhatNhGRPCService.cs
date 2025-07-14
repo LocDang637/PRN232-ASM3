@@ -9,6 +9,10 @@ namespace HivCare.GrpcService.PhatNH.Services
     public class DoctorAvailabilityPhatNhGRPCService : DoctorAvailabilityPhatNhGRPC.DoctorAvailabilityPhatNhGRPCBase
     {
         private readonly IServiceProviders serviceProvider;
+        public DoctorAvailabilityPhatNhGRPCService(IServiceProviders serviceProvider)
+        {
+            this.serviceProvider = serviceProvider ?? throw new ArgumentNullException(nameof(serviceProvider));
+        }
 
         public override async Task<DoctorAvailabilityPhatNhList> GetAllAsync(EmptyRequest request, ServerCallContext context)
         {
