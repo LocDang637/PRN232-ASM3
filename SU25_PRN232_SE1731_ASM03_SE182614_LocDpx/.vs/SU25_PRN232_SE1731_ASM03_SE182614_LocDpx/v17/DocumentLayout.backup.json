@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\SU25\\PRN232\\ASM\\ASM3\\SU25_PRN232_SE1731_ASM03_SE182614_LocDpx\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{80EF2BD5-858C-4A02-8189-80F60B11ED78}|SmokeQuit.GrpcService.LocDpx\\SmokeQuit.GrpcService.LocDpx.csproj|d:\\su25\\prn232\\asm\\asm3\\su25_prn232_se1731_asm03_se182614_locdpx\\smokequit.grpcservice.locdpx\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{80EF2BD5-858C-4A02-8189-80F60B11ED78}|SmokeQuit.GrpcService.LocDpx\\SmokeQuit.GrpcService.LocDpx.csproj|solutionrelative:smokequit.grpcservice.locdpx\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{80EF2BD5-858C-4A02-8189-80F60B11ED78}|SmokeQuit.GrpcService.LocDpx\\SmokeQuit.GrpcService.LocDpx.csproj|d:\\su25\\prn232\\asm\\asm3\\su25_prn232_se1731_asm03_se182614_locdpx\\smokequit.grpcservice.locdpx\\services\\chatslocdpxgrpcservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{80EF2BD5-858C-4A02-8189-80F60B11ED78}|SmokeQuit.GrpcService.LocDpx\\SmokeQuit.GrpcService.LocDpx.csproj|solutionrelative:smokequit.grpcservice.locdpx\\services\\chatslocdpxgrpcservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -23,10 +27,6 @@
       "RelativeMoniker": "D:0:0:{80EF2BD5-858C-4A02-8189-80F60B11ED78}|SmokeQuit.GrpcService.LocDpx\\SmokeQuit.GrpcService.LocDpx.csproj|solutionrelative:smokequit.grpcservice.locdpx\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{80EF2BD5-858C-4A02-8189-80F60B11ED78}|SmokeQuit.GrpcService.LocDpx\\SmokeQuit.GrpcService.LocDpx.csproj|d:\\su25\\prn232\\asm\\asm3\\su25_prn232_se1731_asm03_se182614_locdpx\\smokequit.grpcservice.locdpx\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{80EF2BD5-858C-4A02-8189-80F60B11ED78}|SmokeQuit.GrpcService.LocDpx\\SmokeQuit.GrpcService.LocDpx.csproj|solutionrelative:smokequit.grpcservice.locdpx\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E4127833-FF4F-E21A-2A93-9F05BB19A23D}|..\\..\\ASM2\\SU25_PRN232_SE1731_ASM2_SE182614_LocDPX\\SmokeQuit.Repository.LocDPX\\SmokeQuit.Repository.LocDPX.csproj|d:\\su25\\prn232\\asm\\asm2\\su25_prn232_se1731_asm2_se182614_locdpx\\smokequit.repository.locdpx\\dbcontext\\smokequitdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -37,7 +37,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 532,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Bookmark",
@@ -69,7 +69,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "SmokeQuit.GrpcClients.ConsoleApp.LocDpx.csproj",
               "DocumentMoniker": "D:\\SU25\\PRN232\\ASM\\ASM3\\SU25_PRN232_SE1731_ASM03_SE182614_LocDpx\\SmokeQuit.GrpcClients.ConsoleApp.LocDpx\\SmokeQuit.GrpcClients.ConsoleApp.LocDpx.csproj",
               "RelativeDocumentMoniker": "SmokeQuit.GrpcClients.ConsoleApp.LocDpx\\SmokeQuit.GrpcClients.ConsoleApp.LocDpx.csproj",
@@ -81,7 +81,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\SU25\\PRN232\\ASM\\ASM3\\SU25_PRN232_SE1731_ASM03_SE182614_LocDpx\\SmokeQuit.GrpcClients.ConsoleApp.LocDpx\\Program.cs",
               "RelativeDocumentMoniker": "SmokeQuit.GrpcClients.ConsoleApp.LocDpx\\Program.cs",
@@ -93,7 +93,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\SU25\\PRN232\\ASM\\ASM3\\SU25_PRN232_SE1731_ASM03_SE182614_LocDpx\\SmokeQuit.GrpcService.LocDpx\\Program.cs",
               "RelativeDocumentMoniker": "SmokeQuit.GrpcService.LocDpx\\Program.cs",
@@ -105,20 +105,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ChatsLocDpxGRPCService.cs",
               "DocumentMoniker": "D:\\SU25\\PRN232\\ASM\\ASM3\\SU25_PRN232_SE1731_ASM03_SE182614_LocDpx\\SmokeQuit.GrpcService.LocDpx\\Services\\ChatsLocDpxGRPCService.cs",
               "RelativeDocumentMoniker": "SmokeQuit.GrpcService.LocDpx\\Services\\ChatsLocDpxGRPCService.cs",
               "ToolTip": "D:\\SU25\\PRN232\\ASM\\ASM3\\SU25_PRN232_SE1731_ASM03_SE182614_LocDpx\\SmokeQuit.GrpcService.LocDpx\\Services\\ChatsLocDpxGRPCService.cs",
               "RelativeToolTip": "SmokeQuit.GrpcService.LocDpx\\Services\\ChatsLocDpxGRPCService.cs",
-              "ViewState": "AgIAAFAAAAAAAAAAAAAwwJEAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAwwGIAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-02T03:42:04.003Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-02T03:42:04.003Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ChatsLocDpx.proto",
               "DocumentMoniker": "D:\\SU25\\PRN232\\ASM\\ASM3\\SU25_PRN232_SE1731_ASM03_SE182614_LocDpx\\SmokeQuit.GrpcService.LocDpx\\Protos\\ChatsLocDpx.proto",
               "RelativeDocumentMoniker": "SmokeQuit.GrpcService.LocDpx\\Protos\\ChatsLocDpx.proto",
@@ -126,20 +125,20 @@
               "RelativeToolTip": "SmokeQuit.GrpcService.LocDpx\\Protos\\ChatsLocDpx.proto",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003853|",
-              "WhenOpened": "2025-07-02T03:39:07.385Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-02T03:39:07.385Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\SU25\\PRN232\\ASM\\ASM3\\SU25_PRN232_SE1731_ASM03_SE182614_LocDpx\\SmokeQuit.GrpcService.LocDpx\\appsettings.json",
               "RelativeDocumentMoniker": "SmokeQuit.GrpcService.LocDpx\\appsettings.json",
               "ToolTip": "D:\\SU25\\PRN232\\ASM\\ASM3\\SU25_PRN232_SE1731_ASM03_SE182614_LocDpx\\SmokeQuit.GrpcService.LocDpx\\appsettings.json",
               "RelativeToolTip": "SmokeQuit.GrpcService.LocDpx\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-07-02T03:37:26.821Z"
+              "WhenOpened": "2025-07-02T03:37:26.821Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
